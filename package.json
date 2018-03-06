@@ -1,0 +1,24 @@
+{
+  "name": "vue-mobile-boilerplate",
+  "version": "1.0.0",
+  "description": "a vue webpack  in mobile boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dokasan/vue-mobile-boilerplate.git"
+  },
+  "keywords": [
+    "vue",
+    "mobile",
+    "webpack"
+  ],
+  "author": "dokasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dokasan/vue-mobile-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dokasan/vue-mobile-boilerplate#readme"
+}
